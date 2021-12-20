@@ -1,0 +1,16 @@
+{
+  "apiVersion": "5.3.0",
+  "partnerId": 3197,
+  "user": {
+    "objectType": "KalturaOTTUser",
+    "username": "QATest_15851304173132",
+    "firstName": "ott_user_lWkiwzTJJGYI",
+    "lastName": "1585130417330",
+    "email": "QATest_1585130417313@mailinator.com",
+    "address": "ott_user_lWkiwzTJJGYI fake address",
+    "city": "ott_user_lWkiwzTJJGYI fake city",
+    "countryId": 5,
+    "externalId": "3164004122"
+  },
+  "password": "password_SlLVWDLl"
+}
